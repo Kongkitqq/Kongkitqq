@@ -37,7 +37,7 @@ I am a results-driven developer with a strong foundation in modern web applicati
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Digital HR System (INET)** | Transformed manual workflows into a production-ready tracking system. | `Node.js`, `MongoDB` |
+| **Challenge Period** | Transformed manual workflows into a production-ready tracking system. | `Node.js`, `MongoDB` |
 | **Plant Disease AI** | Deep Learning model for leaf classification with 98% accuracy. | `Python`, `FastAPI` |
 | **PSU Parking Web** | Full-stack parking management prototype. | `React`, `Node.js` |
 
