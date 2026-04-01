@@ -1,7 +1,7 @@
 # Hi there, I'm Kongkit  👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Final-year+ICT+Student+%40+PSU;Full-Stack+%26+Backend+Developer;Expected+First-Class+Honors" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Digital+Solutions;Full-Stack+%26+Backend+Developer;ICT+Graduate+%40+PSU" alt="Typing SVG" />
 </div>
 
 <br/>
